@@ -1,0 +1,6 @@
+Flask
+numpy
+PyWavelets
+opencv-python
+scikit-learn
+seaborn
